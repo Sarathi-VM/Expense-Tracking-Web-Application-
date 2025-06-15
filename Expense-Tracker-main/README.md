@@ -29,7 +29,7 @@ Start by cloning this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/richard9004/Expense-Tracker.git
+git clone https://github.com/Sarathi-VM/Expense-Tracking-Web-Application.git
 2. Build the Project
 Navigate to the project directory and build the project using Maven:
 
