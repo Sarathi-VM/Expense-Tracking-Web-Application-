@@ -17,37 +17,7 @@ View transaction reports
 Responsive UI built with Bootstrap 5
 User-friendly interface for managing personal finances
 
-Getting Started
-Prerequisites
-To run this project locally, you'll need:
-
-Java 11 or higher installed on your system.
-Maven installed for building the application.
-IDE such as IntelliJ IDEA, Eclipse, or Visual Studio Code for development.
-1. Clone the Repository
-Start by cloning this repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/Sarathi-VM/Expense-Tracking-Web-Application.git
-2. Build the Project
-Navigate to the project directory and build the project using Maven:
-
-bash
-Copy code
-cd Expense-Tracker
-mvn clean install
-3. Run the Application
-You can run the Spring Boot application using the following Maven command:
-
-bash
-Copy code
-mvn spring-boot:run
-The application will be available at http://localhost:8080.
-
-How to Use
-Once the application is running, you can:
-
+You can:
 Add new transactions (income/expense).
 Edit or delete existing transactions.
 View transaction reports on a daily, weekly, or monthly basis.
